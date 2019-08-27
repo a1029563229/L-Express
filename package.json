@@ -1,11 +1,11 @@
 {
-  "name": "lexpress",
-  "version": "1.0.0",
-  "description": "对 Express 的模仿，重点实现其中间件机制。",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+    "name": "lexpress",
+    "version": "1.0.0",
+    "description": "对 Express 的模仿，重点实现其中间件机制。",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "author": "",
+    "license": "ISC"
 }
